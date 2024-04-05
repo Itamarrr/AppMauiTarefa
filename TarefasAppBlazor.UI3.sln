@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarefasAppBlazor.UI", "..\projetos\TarefasAppBlazor\TarefasAppBlazor.UI\TarefasAppBlazor.UI.csproj", "{5EB49E70-3A8C-4F74-85D3-392A077D1B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitssApp", "HitssApp\HitssApp.csproj", "{7C2766B8-7792-4CC8-ADEC-327CE24B2902}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarefasAppBlasor.Services", "..\projetos\TarefasAppBlazor\TarefasAppBlasor.Services\TarefasAppBlasor.Services.csproj", "{07CD0F7A-BBB9-4F43-9A41-7B59ADDC6042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB49E70-3A8C-4F74-85D3-392A077D1B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB49E70-3A8C-4F74-85D3-392A077D1B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB49E70-3A8C-4F74-85D3-392A077D1B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB49E70-3A8C-4F74-85D3-392A077D1B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2766B8-7792-4CC8-ADEC-327CE24B2902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2766B8-7792-4CC8-ADEC-327CE24B2902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2766B8-7792-4CC8-ADEC-327CE24B2902}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7C2766B8-7792-4CC8-ADEC-327CE24B2902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2766B8-7792-4CC8-ADEC-327CE24B2902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2766B8-7792-4CC8-ADEC-327CE24B2902}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{07CD0F7A-BBB9-4F43-9A41-7B59ADDC6042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CD0F7A-BBB9-4F43-9A41-7B59ADDC6042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CD0F7A-BBB9-4F43-9A41-7B59ADDC6042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CD0F7A-BBB9-4F43-9A41-7B59ADDC6042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DBA77BD-3134-478B-A927-6C1A17743A71}
+	EndGlobalSection
+EndGlobal
