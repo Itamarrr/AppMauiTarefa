@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TarefasAppBlazor.UI3.props" />
+</Project>
