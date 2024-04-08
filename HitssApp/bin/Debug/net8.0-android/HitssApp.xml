@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HitssApp</name>
+    </assembly>
+    <members>
+        <member name="T:HitssApp.Helpers.AuthenticationHelper">
+            <summary>
+            Classe auxiliar para operações relacionadas a autenticação de usuários
+            </summary>
+        </member>
+    </members>
+</doc>
